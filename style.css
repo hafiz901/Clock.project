@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+#clock{
+   font-family: Arial, sans-serif;
+    font-size: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    height: 90vh;
+}
+
+
+
+
